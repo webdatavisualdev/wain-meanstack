@@ -1,0 +1,9 @@
+config/key_rsa
+test.js
+.idea/
+.vagrant/
+doc/
+node_modules/
+uploads
+admin/public/node_modules/
+admin/public/scripts/scripts.min.js
